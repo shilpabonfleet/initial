@@ -1,0 +1,30 @@
+﻿shilpa@mail.bonfleet.com
+Parvat@123	
+
+REFERENCES :
+__________________
+https://www.putler.com/rfm-analysis/
+1) Research Paper : https://www.iises.net/download/Soubory/IJOSS/V3N4/pp75-97_ijoss_V3N4.pdf
+1) Anamoly setection : https://www.datascience.com/blog/python-anomaly-detection   
+2) Predict behaviour analysis :https://www.datasciencecentral.com/profiles/blogs/using-machine-learning-to-predict-customer-behaviour   	
+3) Code :   
+4) search for research paper 
+5) https://github.com/KBanerjee90/PYTHON-CREDIT-CARD-CASE-STUDY-SEGMENTATION/blob/master/Credit_Card_Segmentation_Solution.ipynb
+6) https://github.com/mohan-aditya05/credit_card_customer_segmentation
+7) https://github.com/RinzlerTron/Segmentation-for-Credit-Risk-Prediction
+8) https://github.com/ArchishRaiKapil/Credit-Card-Customer-Segmentation-Clustering-in-Python
+9) https://github.com/ujjwal-singh-usf/Customer-Segmentation-using-credit-card-transactions
+10) https://www.mckinsey.com/~/media/mckinsey/dotcom/client_service/Financial%20Services/Latest%20thinking/Payments/MoP19_New%20frontiers%20in%20credit%20card%20segmentation.ashx
+11) Segmentation : http://inseaddataanalytics.github.io/INSEADAnalytics/BoatsSegmentationCaseSlides.pdf
+12) default predection  https://github.com/zkneupper/Default-Prediction-Capstone/blob/master/notebooks/Data-Storytelling.ipynb
+
+
+Recent date :  2019-03-31 
+Least_recent_date :  2017-04-05 
+
+
+We need a few details of each Customers:
+Customer ID / Name / Company etc — to identify them
+Recency (R)  (repayment_date)How many days ago was their last purchase? Deduct most recent purchase date from today to calculate the recency value. 1 day ago? 14 days ago? 500 days ago?
+Frequency (F)  repayment_amount How many times has the customer purchased from our store? For example, if someone placed 10 orders over a period of time, their frequency is 10.
+Monetary (M) repayment=transactionHow many $$ (or whatever is your currency of calculation) has this customer spent? Simply total up the money from all transactions to get the M value.
